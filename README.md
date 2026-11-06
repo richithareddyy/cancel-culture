@@ -1,17 +1,10 @@
 # Cancel Culture
 
-Catch the charge. Find the right exit. Confirm you're out.
+You signed up for a free trial for one assignment, and the assignment is over before the trial is. Cancel Culture is a [Cubbie](https://cubbie.ai) skill that tracks trial deadlines, subscription renewals, and expiring student discounts. It helps you set reminders and find the right cancellation or renewal page; you still make the decision and complete the action yourself.
 
-A [Cubbie](https://cubbie.ai) Skill for the Cubbie Hackathon, Track 1.
+If you tell Cubbie “I only need this until my presentation,” it saves that reason alongside the deadline. It doesn’t track your usage or cancel anything automatically, and it distinguishes your report that you cancelled from a confirmation email.
 
-Built at DevHacks S3 by Team Southside: Charith Kutikuppala and Richitha Rekula.
-
-Your semester ends. Your subscriptions don't.
-
-Cancel Culture helps you act before a free trial charges, a paid subscription renews or a student
-discount expires. Keep what you use, renew student pricing when eligible, and exit what you no longer
-need. If you tell Cubbie "I only need this until my presentation", it remembers that reason and asks
-before the next relevant deadline. No usage tracking and no automatic cancellation.
+Built at DevHacks S3 by Team Southside: Charith Kutikuppala and Richitha Rekula. Cubbie Hackathon, Track 1.
 
 ## Install
 
